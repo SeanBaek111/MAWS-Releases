@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AppInstaller Uri="https://seanbaek111.github.io/MAWS-Releases/MAWS.appinstaller" Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2021">
-  <MainBundle Name="SeanBaek111.MAWS" Publisher="CN=DefaultCompany" Version="1.0.1.0" Uri="https://seanbaek111.github.io/MAWS-Releases/MAWS.appxbundle" />
+<AppInstaller Uri="https://seanbaek111.github.io/MAWS-Releases/MAWS.appinstaller" Version="1.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2021">
+  <MainBundle Name="SeanBaek111.MAWS" Publisher="CN=DefaultCompany" Version="1.0.2.0" Uri="https://seanbaek111.github.io/MAWS-Releases/MAWS.appxbundle" />
   <Dependencies>
     <Package Name="Microsoft.VCLibs.140.00" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="14.0.33519.0" ProcessorArchitecture="arm64" Uri="https://seanbaek111.github.io/MAWS-Releases/dependencies/Microsoft.VCLibs.ARM64.14.00.appx" />
     <Package Name="Microsoft.VCLibs.140.00" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="14.0.33519.0" ProcessorArchitecture="x64" Uri="https://seanbaek111.github.io/MAWS-Releases/dependencies/Microsoft.VCLibs.x64.14.00.appx" />
